@@ -37,7 +37,6 @@ The project includes 3 main tables:
 - Companies with revenue decline
 - Top 3 companies with highest revenue growth
 - KPI summary (MAX, MIN, AVG of revenue change in %)
-- Preparation for visualization (Tableau – coming soon)
 
 ---
 
@@ -53,8 +52,8 @@ This screenshot shows the core logic used to compare company revenues between 20
 
 These images shows the output table with calculated revenue change for each company. It includes company IDs, revenue in 2019 and 2023, and the computed percentage difference.
 
-![SQL Code](o1.png)
-![Revenue Output](o2.png)
+![SQL Code](o1.jpg)
+![Revenue Output](o2.jpg)
 
 ---
 
