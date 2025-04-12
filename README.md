@@ -47,12 +47,13 @@ The project includes 3 main tables:
 
 This screenshot shows the core logic used to compare company revenues between 2019 and 2023, including percentage change calculations and KPI metrics.
 
-![SQL Code](o1.png)
+![SQL Code](queries (5).sql)
 
 #### 2. Query Result – Revenue Change Output
 
-This image shows the output table with calculated revenue change for each company. It includes company IDs, revenue in 2019 and 2023, and the computed percentage difference.
+These images shows the output table with calculated revenue change for each company. It includes company IDs, revenue in 2019 and 2023, and the computed percentage difference.
 
+![Revenue Output](o1.png)
 ![Revenue Output](o2.png)
 
 ---
