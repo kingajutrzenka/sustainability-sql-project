@@ -60,4 +60,4 @@ These images shows the output table with calculated revenue change for each comp
 ### Author
 
 Created by Kinga Jutrzenka Tzrebiatowska  
-GitHub: kingajutrzenka(https://github.com/your-username)
+GitHub: kingajutrzenka
