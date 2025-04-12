@@ -57,15 +57,6 @@ This image shows the output table with calculated revenue change for each compan
 
 ---
 
-### What's Next
-
-- Connect the database to Tableau Public
-- Visualize trends and differences by effectiveness level
-- Add storytelling layer to explain results visually
-- Long-term: migrate project logic into Python with SQLAlchemy or Pandas
-
----
-
 ### Author
 
 Created by Kinga Jutrzenka Tzrebiatowska  
